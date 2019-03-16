@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: d2958b64a323b9d43b151be5e1655f51
+timeCreated: 1502890795
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: belly
+    100006: Camera
+    100008: chest
+    100010: Gangmember
+    100012: Head
+    100014: Head_end
+    100016: L_colar_bone
+    100018: L_hand
+    100020: L_hand_end
+    100022: L_lowerarm
+    100024: L_lowerleg
+    100026: L_upperarm
+    100028: L_upperleg
+    100030: neck
+    100032: pelvis
+    100034: R_colar_bone
+    100036: R_hand
+    100038: R_hand_end
+    100040: R_lowerarm
+    100042: R_lowerleg
+    100044: R_upperarm
+    100046: R_upperleg
+    100048: Root_L
+    100050: Root_L.003
+    100052: Root_L.004
+    100054: Root_L.004_end
+    100056: Root_R
+    100058: Root_R.003
+    100060: Root_R.004
+    100062: Root_R.004_end
+    400000: //RootNode
+    400002: Armature
+    400004: belly
+    400006: Camera
+    400008: chest
+    400010: Gangmember
+    400012: Head
+    400014: Head_end
+    400016: L_colar_bone
+    400018: L_hand
+    400020: L_hand_end
+    400022: L_lowerarm
+    400024: L_lowerleg
+    400026: L_upperarm
+    400028: L_upperleg
+    400030: neck
+    400032: pelvis
+    400034: R_colar_bone
+    400036: R_hand
+    400038: R_hand_end
+    400040: R_lowerarm
+    400042: R_lowerleg
+    400044: R_upperarm
+    400046: R_upperleg
+    400048: Root_L
+    400050: Root_L.003
+    400052: Root_L.004
+    400054: Root_L.004_end
+    400056: Root_R
+    400058: Root_R.003
+    400060: Root_R.004
+    400062: Root_R.004_end
+    4300000: Gangmember
+    7400000: Armature|ArmatureAction
+    7400002: Armature|ArmatureAction.001
+    9500000: //RootNode
+    13700000: Gangmember
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
